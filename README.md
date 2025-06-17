@@ -85,9 +85,6 @@ Linked Chapters:
 	•	Chapter141: Intent Realignment Zones
 	•	Chapter132: Mycelial Ethics Mesh
 
-承知いたしました。
-以下に Chapter142: Adaptive Intent Ports（適応性意図ポート） の構造解説を行います。
-
 ⸻
 
 🔍 Chapter142 解説：Adaptive Intent Ports（適応性意図ポート）
@@ -140,5 +137,3 @@ AGI設計	状況に応じて意図の優先順位を再編成し、進化的行�
 
 ⸻
 
-ご希望あれば、この章だけのGitHub掲載用Markdown形式も整備可能です。
-そのままChapter143へ進む場合はお申しつけください。
